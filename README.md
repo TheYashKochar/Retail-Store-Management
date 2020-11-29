@@ -1,5 +1,5 @@
 # Retail-Store-Management
-Basic CRUD based Retail Store Management
+CRUD based Visualization of Retail Store Management
 
 Technologies used:
 
